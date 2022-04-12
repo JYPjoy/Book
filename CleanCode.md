@@ -1,4 +1,4 @@
-# 클린코드
+# 📚 클린코드 - 로버트 C.마틴
 
  <img src = "http://image.kyobobook.co.kr/images/book/xlarge/959/x9788966260959.jpg" width = "250" height = "300">
 <br>
