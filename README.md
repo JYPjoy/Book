@@ -1,3 +1,3 @@
 # BookList
 
-[클린코드](./CleanCode.md)
+[클린코드](./CleanCode/CleanCode.md)
