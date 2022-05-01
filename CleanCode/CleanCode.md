@@ -51,5 +51,3 @@
 ### ※ 참고:구글 Guide
 
 https://google.github.io/styleguide/javaguide.html#s5-naming
-
-자바 가이드처럼 영역이 있다면 약간 자박자박한 느낌의 키보드를 원ㄴ다며
