@@ -1,4 +1,4 @@
-# 📚 The Nature of Sofware development - 론 제프리스
+# 📚 The Nature of Software Development - 론 제프리스
 
 읽은 기간: 2022. 6. 5.
 
