@@ -7,6 +7,7 @@
 
 1. [깨끗한 코드](#깨끗한-코드)
 2. [의미 있는 이름](#의미-있는-이름)
+3. [함수](#함수)
 
 # 깨끗한 코드
 
@@ -56,3 +57,8 @@
 ### ※ 참고:구글 Guide
 
 https://google.github.io/styleguide/javaguide.html#s5-naming
+<br>
+
+# 함수
+
+1. 작게 만들어라.
