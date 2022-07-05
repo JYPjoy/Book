@@ -8,6 +8,7 @@
 1. [깨끗한 코드](#깨끗한-코드)
 2. [의미 있는 이름](#의미-있는-이름)
 3. [함수](#함수)
+4. [주석](#주석)
 
 # 깨끗한 코드
 
@@ -54,7 +55,9 @@
 
 <br>
 
-### ※ 참고:구글 Guide
+### Lec
+
+※ 참고:구글 Guide
 
 https://google.github.io/styleguide/javaguide.html#s5-naming
 <br>
@@ -99,3 +102,30 @@ https://google.github.io/styleguide/javaguide.html#s5-naming
 ### 결론
 
 - master 프로그래머는 시스템을 (구현할) 프로그램이 아니라 (풀어갈) <b>"이야기"</b>로 여긴다. <b>프로그래밍 언어</b>라는 수단을 사용해 좀 더 풍부하고 좀 더 표현력이 강한 <b>언어</b>를 만들어 <b>이야기</b>를 풀어간다. 시스템에서 발생하는 모든 동작을 설명하는 함수 계층이 바로 그 언어에 속한다. 재귀라는 기교로 각 동작은 바로 그 도메인에 특화된 언어를 사용해 자신만의 이야기를 풀어간다.
+
+### Lec
+
+#### [SOLID원칙]
+
+1. <b>S</b>RP(Single Responsibility Principle) 단일 책임 원칙
+
+- 한 <b>클래스</b>는 하나의 책임만 가져야 한다.
+
+2. <b>O</b>CP(Open/Closed Principle) 개방 - 폐쇄 원칙
+
+- 소프트웨어 요소는 확장에는 열려 있으나 변경에는 닫혀 있어야 한다.
+
+3. <b>L</b>SP(Liskov's Substitution Principle) 리스코프 치환 원칙
+
+- 서브 타입은 언제나 부모 타입으로 교체할 수 있어야 한다.
+
+4. <b>I</b>SP(Interface Segregation Principle) 인터페이스 분리 원칙
+
+- 가능한 최소한의 <b>인터페이스</b>만 구현한다.
+
+5. <b>D</b>IP(Dependency Inversion Principle) 의존성 역전 원칙
+
+- 상위 & 하위 모델 모두 추상화에 의존해야 한다.
+  <br>
+
+# 주석
