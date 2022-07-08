@@ -3,7 +3,6 @@
 읽은 기간: 2022. 7. 2. - 7. 3.
 
  <img src = "http://image.kyobobook.co.kr/images/book/large/951/l9788935208951.jpg" width = "250" height = "350">
-<br>
 
 # 순서
 
