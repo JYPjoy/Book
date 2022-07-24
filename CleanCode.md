@@ -199,3 +199,6 @@ https://google.github.io/styleguide/javaguide.html#s5-naming
 19. 예제
 
 # 형식 맞추기
+
+
+* 참고: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
