@@ -2,7 +2,7 @@
 
 - 저자: 펠리너 헤르만스
 
-- 기간: 2022. 7. 28. -
+- 기간: 2022. 7. 28. - 8. 10.
 
  <img src = "https://image.aladin.co.kr/product/28596/70/cover500/k832835755_1.jpg" width = "230" height = "300">
 <br>
